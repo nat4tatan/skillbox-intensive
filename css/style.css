@@ -269,6 +269,13 @@
     border: none;
 }
 
+.special {
+    background-color:teal;
+    padding: 5px 0;
+    color: #fff;
+    margin-bottom: 100px;
+}
+
 .special__wrapper {
     font-family: sans-serif;
     width: 1140px;
